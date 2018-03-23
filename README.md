@@ -1,1 +1,2 @@
-# AI_History_Timeline
+### AI History Timeline
+Author: Ian Banatoski
